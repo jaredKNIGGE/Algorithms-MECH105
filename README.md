@@ -32,4 +32,6 @@ This function to create an upper and lower triangular matrix from a system of eq
 **Inputs**
 - `A`:square coeffcient matrix  
 **Ouputs**
-- `L`:
+- `L`:lower triangular matrix
+- `U`:upper triangular matrix
+- `P`:pivot matrix
