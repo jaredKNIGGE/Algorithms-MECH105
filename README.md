@@ -11,7 +11,8 @@ This function is used for the purpose of approximating the roots of an equation 
 - `xl`:the lower guess  
 - `xu`:the upper guess    
 - `es`:the desired relative error     
-- `maxiter`:the maximum number of iterations desired     
+- `maxiter`:the maximum number of iterations desired 
+  
 **Outputs**     
 - `root`:the estimated root location    
 - `fx`:the function evaluated at the root location    
